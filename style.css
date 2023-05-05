@@ -13,7 +13,7 @@
 
     background-color: #7a7272;
 
-    color: white;
+    color: rgb(255, 255, 255);
 
     display: flex;
 
@@ -30,7 +30,7 @@
 
 .cabecalho-imagem{
 
-    width:20%;
+    width:200px;
 
 }
 
